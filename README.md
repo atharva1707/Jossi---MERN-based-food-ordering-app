@@ -1,5 +1,12 @@
 # MERN Stack Boilerplate
 
+## Hosting the app
+
+> Clone the repo 
+> Run ` sudo docker-compose up --build `
+> browse to `localhost:4000/`
+
+
 ## Installations
 
 ### Node
